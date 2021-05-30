@@ -1,0 +1,16 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">City</th>
+        <th scope="col">Aqi</th>
+        <th scope="col">Last Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="city-row" (click)="navigate(city.value)" *ngFor="let city of aqiCityList | keyvalue">
+        <td>{{city.value.city}}</td>
+        <td [ngClass]="{'text-danger': city.value.aqi >200, 'text-success': city.value.aqi <=100, 'text-warning': city.value.aqi >100}">{{city.value.aqi}}</td>
+        <td>{{city.value.date.toLocaleTimeString()}}</td>
+      </tr>
+    </tbody>
+  </table>
