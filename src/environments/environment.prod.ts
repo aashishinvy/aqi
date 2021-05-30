@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  wsEnd: 'ws://city-ws.herokuapp.com/‌'
+  wsEnd: 'wss://city-ws.herokuapp.com/‌'
 };
