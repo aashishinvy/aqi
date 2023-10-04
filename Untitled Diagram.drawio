@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T02:02:25.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mUijHqg6HWmdjRB1tvyj" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-04T02:03:47.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1mtMlki_tsVTSRYjdFw0" version="22.0.2" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,9 +91,13 @@
         <mxCell id="n_Xed9ibIA65ynU_BDhb-3" value="Data Base" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="680" width="700" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="n_Xed9ibIA65ynU_BDhb-13" value="NHCX_LOGS" style="swimlane;whiteSpace=wrap;html=1;" parent="n_Xed9ibIA65ynU_BDhb-3" vertex="1">
-          <mxGeometry x="44" y="50" width="96" height="80" as="geometry" />
-        </mxCell>
+        <UserObject label="NHCX_LOGS" link="data:page/id,4wlm6lmaPrlt67HvVmds" id="n_Xed9ibIA65ynU_BDhb-13">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="n_Xed9ibIA65ynU_BDhb-3" vertex="1" collapsed="1">
+            <mxGeometry x="44" y="50" width="120" height="30" as="geometry">
+              <mxRectangle x="44" y="50" width="96" height="80" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -159,7 +163,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4wlm6lmaPrlt67HvVmds" name="Page-3">
+  <diagram id="4wlm6lmaPrlt67HvVmds" name="schema NHCX logs">
     <mxGraphModel dx="954" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
