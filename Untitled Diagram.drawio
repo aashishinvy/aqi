@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T04:26:00.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="I2mZhtB5NcZt4bDtgAaV" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-04T04:36:21.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="t-Dns28SK8DMdtRcvL0g" version="22.0.2" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Claim registration">
     <mxGraphModel dx="1468" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,9 +106,9 @@
           <mxGeometry x="20" y="800" width="980" height="230" as="geometry" />
         </mxCell>
         <UserObject label="NHCX_LOGS" link="data:page/id,4wlm6lmaPrlt67HvVmds" id="n_Xed9ibIA65ynU_BDhb-13">
-          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="n_Xed9ibIA65ynU_BDhb-3" vertex="1" collapsed="1">
-            <mxGeometry x="32" y="70" width="120" height="30" as="geometry">
-              <mxRectangle x="44" y="50" width="96" height="80" as="alternateBounds" />
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="n_Xed9ibIA65ynU_BDhb-3" vertex="1">
+            <mxGeometry x="32" y="70" width="96" height="80" as="geometry">
+              <mxRectangle x="32" y="70" width="120" height="30" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
         </UserObject>
@@ -413,7 +413,7 @@
         </mxCell>
         <mxCell id="YQpDddAUyEyW4kxvSw8K-115" value="request Object" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="470" y="949" width="110" height="30" as="geometry">
-            <mxRectangle x="540" y="949" width="280" height="221" as="alternateBounds" />
+            <mxRectangle x="470" y="949" width="280" height="221" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YQpDddAUyEyW4kxvSw8K-159" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="YQpDddAUyEyW4kxvSw8K-115">
